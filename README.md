@@ -5,7 +5,8 @@ This project identifies plant leaf diseases using a machine learning model.
 ## Instructions
 
 1. Clone the repository:
-
+   https://github.com/22sakshiagarwal/Plant-leaf-disease-identification-using-deep-learning.git
+   
 2. Install the dependencies:
 pip install -r requirements.txt
 
